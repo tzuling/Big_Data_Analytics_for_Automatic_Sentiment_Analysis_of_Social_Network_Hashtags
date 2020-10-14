@@ -1,6 +1,6 @@
 ## Big Data Analysis for Automatic Sentiment Analysis of Social Network Hashtags
 Hello there!\
-This repository holds my essay: *Big Data Analysis for Automatic Sentiment Analysis of Social Network Hashtags code
+This repository holds my essay: *Big Data Analysis for Automatic Sentiment Analysis of Social Network Hashtags* code
 
 This study combines two emotional lexicons, NRC Emotion Lexicon and NRC Emotion Intensity Lexicon, for sentiment analysis. Data collected the tweets include \#stayhome, \#covid19, \#coronavirus, \#blacklivesmatter, and \#alllivesmatter through Twitter API, all of them are the most popular hashtags in the first half of 2020.
 
